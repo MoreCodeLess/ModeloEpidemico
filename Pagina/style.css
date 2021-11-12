@@ -6,7 +6,7 @@
 
 body {
     text-align: start;
-    background: url(../Pagina/img/fondo.jpg);
+    background: url(fondo.jpg);
     background-size: 100%;
     font-family: sans-serif;
 }
