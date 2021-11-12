@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: start;
+    background: url(../Pagina/img/fondo.jpg);
+    background-size: 100%;
+    font-family: sans-serif;
+}
+
+p {
+    text-align: start;
+    font-family: 'Merriweather', serif;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Yuji Syuku', serif;
+}
+
+.blanco-rojo {
+    color: #000000;
+    background-color: rgb(146, 236, 236);
+}
